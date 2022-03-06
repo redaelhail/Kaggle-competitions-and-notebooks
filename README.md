@@ -1,4 +1,3 @@
-# Kaggle-competitions-and-notebooks
 ## kaggle competitions
 ## Notebooks
 ### [ 1. Generate spectrograms with a Neural network:](https://github.com/redaelhail/Kaggle-competitions-and-notebooks/blob/main/Generating_spectrograms_with_neural_networks.ipynb)
