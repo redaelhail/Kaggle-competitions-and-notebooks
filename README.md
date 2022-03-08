@@ -1,5 +1,5 @@
 ## kaggle competitions
-### [1. Generate spectrograms with a Neural network:](https://www.kaggle.com/redomy/birdclef-2022-spectrum-custom-data-pytorch)
+### [BirdCLEF 2022](https://www.kaggle.com/redomy/birdclef-2022-spectrum-custom-data-pytorch)
 ## Notebooks
 ### [1. Generate spectrograms with a Neural network:](https://github.com/redaelhail/Kaggle-competitions-and-notebooks/blob/main/Generating_spectrograms_with_neural_networks.ipynb)
 
