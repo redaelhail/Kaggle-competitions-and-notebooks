@@ -7,3 +7,5 @@
  
  ### [2. Data visualization with Plotly, Seaborn and Wordcloud on US cars dataset:](https://github.com/redaelhail/Kaggle-competitions-and-notebooks/blob/main/data-visualization-plotly-seaborn-and-wordcloud.ipynb)
  Notebook to show different ways to explore data by using advanced data visualition libraries.
+ 
+ ### [3. Siamese neural network architecture with Tensorflow](https://github.com/redaelhail/Kaggle-competitions-and-notebooks/blob/main/siamese_neural_network.ipynb)
