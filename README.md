@@ -9,3 +9,5 @@
  Notebook to show different ways to explore data by using advanced data visualition libraries.
  
  ### [3. Siamese neural network architecture with Tensorflow](https://github.com/redaelhail/Kaggle-competitions-and-notebooks/blob/main/Siamese_neural_network.ipynb)
+
+### [4. CIFAR 10 competion](https://github.com/redaelhail/Kaggle-competitions-and-notebooks/blob/main/cifar-10.ipynb)
